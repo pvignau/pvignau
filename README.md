@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm an IT lover, dad of 2, biker, gamer
+
+More specifically, web developer and design systems enthousiast
 <!--
 **pvignau/pvignau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🔭 I’m currently working on my personal sandbox - https://pvignau.github.io/
+- 🌱 I’m currently learning web video games development
